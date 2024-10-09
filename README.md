@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tshimbiluni Thophilus Nedambale
+# 👋 Hi, I'm Tshimbiluni Theophilus Nedambale
 
 I'm a passionate **Full-Stack Developer Intern** at Sasol, with a strong foundation in **C#, Python, SQL**, and **ASP.NET Core MVC**. I'm currently working on exciting full-stack projects using **Django REST framework** and **React (TypeScript)** as I continue to deepen my expertise in modern web development and cloud technologies.
 
