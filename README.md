@@ -1,25 +1,15 @@
-# 👋 Hi, I'm Tshimbiluni Theophilus Nedambale
+### 👋 Hi, I’m Tshimbiluni Nedambale
 
-I'm a passionate **Full-Stack Developer Intern** at Sasol, with a strong foundation in **C#, Python, SQL**, and **ASP.NET Core MVC**. I'm currently working on exciting full-stack projects using **Django REST framework** and **React (TypeScript)** as I continue to deepen my expertise in modern web development and cloud technologies.
+I'm a Software Engineer with a strong foundation in Python and backend development. I enjoy building scalable APIs using Django REST Framework and FastAPI, and integrating them with React (TypeScript) frontends. I regularly deploy applications using Docker, GitHub, and CI/CD workflows.
 
-## 👨‍💻 What I'm Working On:
-- Building full-stack applications with **Django REST framework** and **React (TypeScript)**.
-- Improving my **DevSecOps** skills, with hands-on experience in **Azure DevOps** and **GitHub**.
-- Exploring cloud computing and preparing for **Microsoft Azure** certifications like **AZ-900**, **AZ-104**, and **AZ-204**.
-- Learning about **Docker**, **Kubernetes**, and expanding my understanding of **Cloud Fundamentals**.
+🔧 **Tech I Use:** Python · FastAPI · Django · React (TS) · MySQL · PostgreSQL · Docker · GitHub · CI/CD  
+📚 **Certifications:** Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900)  
+🎯 **Next Goal:** Azure AI Engineer Associate – working toward becoming a Level 3 AI/ML Engineer  
+🌍 **Based in:** Gauteng, South Africa  
+🧠 **Strengths:** Analytical thinking · Emotional intelligence · Curiosity · Team collaboration
 
-## 🛠 Skills and Technologies:
-- **Languages:** C#, Python, SQL, Java, TypeScript
-- **Frameworks:** Django REST framework, React (TypeScript), ASP.NET Core MVC
-- **Cloud:** Azure, Azure App Services, Azure DevOps
-- **DevOps Tools:** Git, GitHub, Azure Pipelines
-- **Database:** SQL Server
-- **Certifications:** Studying for **Azure AI Fundamentals** and **Azure Administrator** certifications
+> 💡 I'm passionate about bridging software development with AI/ML to create meaningful, scalable solutions.
 
-## 🌱 What I’m Learning:
-- Enhancing my full-stack development skills with **React (TypeScript)** and **Django REST framework**.
-- Diving deep into **data engineering**, **AI fundamentals**, and **cloud technologies**.
-
-## 📫 Connect With Me:
-- **GitHub:** [TshimbiluniRSA](https://github.com/TshimbiluniRSA)
-- **LinkedIn:** [Tshimbiluni Nedambale](https://www.linkedin.com/in/tshimbiluni-nedambale-1a75611b5/)
+📫 Let’s connect:  
+- [LinkedIn](https://www.linkedin.com/in/tshimbiluni-nedambale)  
+- [GitHub](https://github.com/TshimbiluniRSA)
