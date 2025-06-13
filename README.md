@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Tshimbiluni Nedambale
+### 👋 Hi, I’m Tshimbiluni Theophillus Nedambale
 
 I'm a Software Engineer with a strong foundation in Python and backend development. I enjoy building scalable APIs using Django REST Framework and FastAPI, and integrating them with React (TypeScript) frontends. I regularly deploy applications using Docker, GitHub, and CI/CD workflows.
 
