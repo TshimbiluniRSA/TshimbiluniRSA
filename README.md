@@ -1,15 +1,55 @@
-### 👋 Hi, I’m Tshimbiluni Theophillus Nedambale
+# 👋 Hi, I’m Tshimbiluni Theophillus Nedambale
 
-I'm a Software Engineer with a strong foundation in Python and backend development. I enjoy building scalable APIs using Django REST Framework and FastAPI, and integrating them with React (TypeScript) frontends. I regularly deploy applications using Docker, GitHub, and CI/CD workflows.
+I’m a Software Engineer focused on **Python backend development, AI automation, and full-stack application development**.
 
-🔧 **Tech I Use:** Python · FastAPI · Django · React (TS) · MySQL · PostgreSQL · Docker · GitHub · CI/CD  
-📚 **Certifications:** Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900)  
-🎯 **Next Goal:** Azure AI Engineer Associate – working toward becoming a Level 3 AI/ML Engineer  
-🌍 **Based in:** Gauteng, South Africa  
-🧠 **Strengths:** Analytical thinking · Emotional intelligence · Curiosity · Team collaboration
+I enjoy building practical software systems using **Django REST Framework, FastAPI, PostgreSQL, Docker, and React with TypeScript**. My work and projects are mostly around backend APIs, AI/LLM integrations, document intelligence, automation workflows, and modern web applications.
 
-> 💡 I'm passionate about bridging software development with AI/ML to create meaningful, scalable solutions.
+## 🚀 What I’m focused on
 
-📫 Let’s connect:  
-- [LinkedIn](https://www.linkedin.com/in/tshimbiluni-nedambale)  
+- Building scalable backend APIs with **Python, Django REST Framework, and FastAPI**
+- Integrating AI/LLM capabilities into real applications
+- Working with **PostgreSQL, MySQL, Docker, GitHub, and CI/CD workflows**
+- Building frontend experiences with **React and TypeScript**
+- Growing deeper into **AI engineering, RAG systems, cloud-native development, and production-ready ML systems**
+
+## 🧠 Featured project areas
+
+### 🤖 AI & LLM Projects
+Projects exploring AI-powered applications, RAG, document understanding, language processing, and intelligent automation.
+
+### 🐍 Python Backend Development
+Backend systems and APIs built with Python, including Django REST Framework and FastAPI.
+
+### ⚛️ Full-Stack Web Apps
+React + TypeScript frontend projects connected to backend services and databases.
+
+### 📚 Academic & Learning Projects
+University and self-learning projects covering software design, databases, data structures, automation, and problem-solving.
+
+## 🔧 Tech I Use
+
+**Backend:** Python, Django REST Framework, FastAPI  
+**Frontend:** React, TypeScript, HTML, CSS  
+**Databases:** PostgreSQL, MySQL  
+**AI/ML:** LLM Integration, RAG, NLP, AI Automation  
+**DevOps & Tools:** Docker, GitHub, CI/CD, Azure  
+
+## 📌 Current direction
+
+I’m currently growing as a **Python Backend Engineer with AI Automation and LLM Integration experience**.
+
+My goal is to build software that is not only technically solid, but useful in real business environments — especially systems involving automation, document processing, AI-assisted workflows, and scalable backend architecture.
+
+## 📚 Certifications
+
+- Microsoft Azure Fundamentals — AZ-900
+- Microsoft Azure AI Fundamentals — AI-900
+
+## 🌍 Based in
+
+Gauteng, South Africa
+
+## 📫 Let’s connect
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
 - [GitHub](https://github.com/TshimbiluniRSA)
