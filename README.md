@@ -36,9 +36,11 @@ University and self-learning projects covering software design, databases, data 
 
 ## 📌 Current direction
 
-I’m currently growing as a **Python Backend Engineer with AI Automation and LLM Integration experience**.
+I’m currently growing as a **Python Backend Engineer with AI Automation, LLM Integration, and MLOps interests**.
 
-My goal is to build software that is not only technically solid, but useful in real business environments — especially systems involving automation, document processing, AI-assisted workflows, and scalable backend architecture.
+My focus is on building practical AI-enabled systems: backend APIs, document processing workflows, RAG applications, model/LLM integrations, cloud deployments, and automation pipelines that can support real business use cases.
+
+Long term, I’m working toward AI/MLOps engineering helping move AI and ML solutions from experiments into reliable, observable, production-ready systems.
 
 ## 📚 Certifications
 
