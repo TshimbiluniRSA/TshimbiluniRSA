@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Tshimbiluni Theophillus Nedambale
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TshimbiluniRSA&label=Profile%20views&style=flat" alt="Profile views" />
+</p>
+
 I’m a Software Engineer focused on **Python backend development, AI automation, and full-stack application development**.
 
 I enjoy building practical software systems using **Django REST Framework, FastAPI, PostgreSQL, Docker, and React with TypeScript**. My work and projects are mostly around backend APIs, AI/LLM integrations, document intelligence, automation workflows, and modern web applications.
@@ -41,6 +45,14 @@ I’m currently growing as a **Python Backend Engineer with AI Automation, LLM I
 My focus is on building practical AI-enabled systems: backend APIs, document processing workflows, RAG applications, model/LLM integrations, cloud deployments, and automation pipelines that can support real business use cases.
 
 Long term, I’m working toward AI/MLOps engineering helping move AI and ML solutions from experiments into reliable, observable, production-ready systems.
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Tshimbiluni's GitHub metrics" width="100%" />
+</p>
+
+_This dashboard is generated automatically and refreshed daily using GitHub Actions._
 
 ## 📚 Certifications
 
